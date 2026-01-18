@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @waqasishtiaq
-- 👀 I’m interested in data sciene and analytics
-- 🌱 I’m currently learning new tools and technologies in Data Science such as R and Python
+- 👀 I’m currently a Quantitative Analytics at Fifth Third Bank
+- 🌱 I consider myself a lifelong learner in Data Science and Analytics technologies such as Advanced Python and SQL
 - 📫 How to reach me waqas.ishtiaq@gmail.com
 
 <!---
