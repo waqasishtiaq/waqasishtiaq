@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @waqasishtiaq
 - 👀 I’m currently a Quantitative Analytics at Fifth Third Bank
-- 🌱 I consider myself a lifelong learner in Data Science and Analytics technologies such as Advanced Python and SQL
+- 🌱 I consider myself a lifelong learner in Data Science and Analytics languages such as Advanced Python and SQL
 - 📫 How to reach me waqas.ishtiaq@gmail.com
 
 <!---
